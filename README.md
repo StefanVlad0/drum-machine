@@ -48,6 +48,7 @@
 
  ## :camera: Screenshots
 
+![drum](https://github.com/StefanVlad0/drum-machine/assets/72700839/6c6e5409-f8de-437d-a78a-3cb75c768529)
 
 
 
